@@ -3,3 +3,6 @@
   - [如何用 Github issues 写技术博客？](https://github.com/george-es/Blog/issues/2)
 - JS 系列
   - [防抖和节流](https://github.com/george-es/Blog/issues/3)
+- 外文翻译
+  - [[译] Google JavaScript 风格指南中 13 个值得注意的细节](https://github.com/george-es/Blog/issues/4)
+  - [[译]5个简单的步骤去理解 JSON Web Tokens（JWT）](https://github.com/george-es/Blog/issues/5)
